@@ -3,7 +3,7 @@
 
 - 예문 : 안녕 찾기
 `
-	"안녕하세요, 만나서 반갑습니다."
+	"안녕하세요, 만나서 반갑습니다." \n
 	"그래, 안녕?"
 `
 
@@ -11,4 +11,4 @@
 	- /안녕/
 
 - 결과
-	- [rubular](https://rubular.com/r/i6kXOgYO9f)
+	- [rubular.com](https://rubular.com/r/i6kXOgYO9f)
